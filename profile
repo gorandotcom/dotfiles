@@ -79,4 +79,3 @@ alias lsd="ls -l | grep '^d'"
 HISTSIZE=50000
 HISTCONTROL=ignoreboth
 HISTTIMEFORMAT='%F %T '
-
